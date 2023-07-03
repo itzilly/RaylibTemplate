@@ -1,4 +1,4 @@
-Modified slightly from original | https://github.com/raysan5/raylib/blob/master/projects/CMake/CMakeLists.txt
+# Modified slightly from original | https://github.com/raysan5/raylib/blob/master/projects/CMake/CMakeLists.txt
 
 cmake_minimum_required(VERSION 3.25) # Minimum Cmake Version: 3.11
 project(RaylibTemplate) # <--- Change this to your Project Name (ex. SpaceWars) --->
